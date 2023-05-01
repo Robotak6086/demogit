@@ -1,6 +1,8 @@
 # Nastavenie
-# nastavenie autopožičovne
+## Nastavenie autopožičovne
 ## polia:
 okno
 utrum
 ## nastanie učtovania
+#### polia
+
