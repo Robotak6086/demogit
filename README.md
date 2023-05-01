@@ -1,3 +1,3 @@
 # Nastavenie
-## nastavenie auto
-dem
+# nastavenie autopožičovne
+## polia:
