@@ -1,2 +1,3 @@
-# demogit
-demo
+# Nastavenie
+## nastavenie auto
+dem
