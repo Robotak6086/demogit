@@ -3,3 +3,4 @@
 ## polia:
 okno
 utrum
+## nastanie učtovania
